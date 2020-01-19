@@ -1,0 +1,10 @@
+.todo-list {
+  background-color: #1bc0e9;
+  .items {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1rem;
+  }
+}
